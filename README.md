@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate cybersecurity aspirant and cloud computing student<br><br>👋 Hi, I’m Sidharth Prem.<br><br>👀 I’m interested in looking into: Cloud computing analyst, Cyber security,Python advanced...<br><br>👨‍💻 I’m currently learning:  Python, C, MySQL, Ethical Hacking and more...<br><br>📫 How to reach me: www.instagram.com/_sidharth_prem_310 or <br><br>📧 Mail me at: sidharthprem3110@gmail.com 
+A passionate cybersecurity aspirant and cloud computing student<br><br>👋 Hi, I’m Sidharth Prem.<br><br>👀 I’m interested in looking into: Cloud computing analyst, Cyber security,Python advanced...<br><br>👨‍💻 I’m currently learning:  Python, C, MySQL, Ethical Hacking and more...<br><br>📫 How to reach me: www.instagram.com/sidharthprem310 or <br><br>📧 Mail me at: sidharthprem3110@gmail.com 
 
 
 ## 🌐 Socials:
